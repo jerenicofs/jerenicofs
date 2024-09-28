@@ -1,20 +1,34 @@
+<div align="center">
+  <a href="https://github.com/jerenicofs">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead">
+  </a>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Jerenico Franssen Semanuel</h1>
 <h3 align="center">Undergraduate Student of Computer Science at Bina Nusantara University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerenicofs&label=Profile%20views&color=0e75b6&style=flat" alt="jerenicofs" /> </p>
 
-- 🔭 I’m currently working on [Promptify](https://github.com/jerenicofs/Promptify)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on [Promptify](https://github.com/jerenicofs/Promptify) personal project
 
-- 💬 Ask me about **C, Java, Laravel**
+- 🌱 I’m currently learning **Next.js, React.js, and JavaFX**
 
-- 📫 How to reach me **jerenicofs@gmail.com**
+- 💬 Ask me about **C, Java, Laravel, MySQL, etc**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jerenicofs](https://github.com/jerenicofs)
+
+- 📫 How to reach me **jerenicofs@gmail.com** or **jerenico.semanuel@binus.ac.id**
+
+- ⚡ Fun fact **I love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jerenico franssen semanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerenico franssen semanuel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jerenico-franssen-semanuel-2547a2293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b99nuscwyqfig0komeits2a%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/jerenicofs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jerenicofs" height="30" width="40" /></a>
+<a href="https://twitter.com/jerenicofs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerenicofs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
