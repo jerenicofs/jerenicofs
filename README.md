@@ -12,13 +12,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Promptify](https://github.com/jerenicofs/Promptify) personal project
-
 - 🌱 I’m currently learning **Next.js, React.js, and JavaFX**
 
-- 💬 Ask me about **C, Java, Laravel, MySQL, etc**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jerenicofs](https://github.com/jerenicofs)
+- 👨‍💻 All of my projects are available at [https://jerenico-franssen-semanuel.vercel.app/]
 
 - 📫 How to reach me **jerenicofs@gmail.com** or **jerenico.semanuel@binus.ac.id**
 
