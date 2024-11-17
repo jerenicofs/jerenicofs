@@ -7,6 +7,13 @@
 
 <h1 align="center">Hi 👋, I'm Jerenico Franssen Semanuel</h1>
 <h3 align="center">Undergraduate Student of Computer Science at Bina Nusantara University</h3>
+<div align="center">
+  <a href="https://jerenico-franssen-semanuel.vercel.app" target="_blank">
+    🌐 <b>Visit my Website!</b> 😊
+  </a>
+</div>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerenicofs&label=Profile%20views&color=0e75b6&style=flat" alt="jerenicofs" /> </p>
 
@@ -14,7 +21,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js, and JavaFX**
 
-- 👨‍💻 All of my projects are available at [https://jerenico-franssen-semanuel.vercel.app/]
+- 👨‍💻 All of my projects are available at https://jerenico-franssen-semanuel.vercel.app/
 
 - 📫 How to reach me **jerenicofs@gmail.com** or **jerenico.semanuel@binus.ac.id**
 
